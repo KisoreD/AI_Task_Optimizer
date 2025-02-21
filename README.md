@@ -39,6 +39,8 @@ A mood analysis graph will be generated.
 🎯 Recommended Task: Collaborate on a new project
 ✅ Mood history successfully updated with anonymized data!
 
+Note: Mood history is stored in a seperate json file.
+
 🛠 Future Enhancements
 🔹 Improve accuracy with more advanced AI models
 🔹 Integrate with company HR dashboards
