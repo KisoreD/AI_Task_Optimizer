@@ -13,7 +13,7 @@ The Real time Task Optimizer is an intelligent system that detects facial emotio
 🔧 Installation
 
 1️⃣ Clone the Repository
-git clone https://github.com/KisoreD/AI_Task_Optimizer.git
+git clone https://github.com/KisoreD/Real-Time_Emotion_Detection_and_Task_Recommendation_System.git
 cd AI_Task_Optimizer
 
 2️⃣ Install Dependencies
