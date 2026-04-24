@@ -1,6 +1,6 @@
-  **AI Task Optimizer** 
+  **Real-Time Emotion Detection & Task Recommendation System** 
 A Real-Time Emotion Detection and Task Recommendation System
-The AI Task Optimizer is an intelligent system that detects facial emotions in real time using a webcam, analyzes text sentiment, and provides task recommendations based on the detected mood. It also monitors prolonged stress levels and generates alerts for HR when necessary.
+The Real time Task Optimizer is an intelligent system that detects facial emotions in real time using a webcam, analyzes text sentiment, and provides task recommendations based on the detected mood. It also monitors prolonged stress levels and generates alerts for HR when necessary.
 
 📌 Features
 ✅ Real-time Facial Emotion Detection using DeepFace
