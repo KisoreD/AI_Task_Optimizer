@@ -1,4 +1,4 @@
-  AI Task Optimizer 🚀
+  **AI Task Optimizer** 
 A Real-Time Emotion Detection and Task Recommendation System
 The AI Task Optimizer is an intelligent system that detects facial emotions in real time using a webcam, analyzes text sentiment, and provides task recommendations based on the detected mood. It also monitors prolonged stress levels and generates alerts for HR when necessary.
 
@@ -20,7 +20,7 @@ cd AI_Task_Optimizer
 Ensure you have Python installed, then install required packages:
 pip install opencv-python numpy tensorflow deepface textblob matplotlib
 
-🚀 Usage
+Usage:
 
 Run the script:
 python final_AI_Task_Optimizer.py
@@ -33,7 +33,7 @@ Based on your mood, a recommended task will be displayed.
 Press 'Q' to exit.
 A mood analysis graph will be generated.
 
-📊 Example Output
+Example Output:
 
 🧐 Employee: 1234 | Detected Mood: Happy
 🎯 Recommended Task: Collaborate on a new project
